@@ -18,8 +18,7 @@ p3_questions = [{
                                                      "Why is family important to you?",
                                                      "Do you do housework at home?",
                                                      "What kind of housework do you often do?",
-                                                     "Did you do housework when you were a child?",
-                                                     "Do you think that children should do housework?"]
+                                                     "Did you do housework when you were a child?"]
 }]
 
 p2_questions = ['''Describe an advertisement that persuaded you to buy a product.You should say
